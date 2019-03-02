@@ -5,7 +5,10 @@ This folder contains answers found for the Hashcode challenge
 
 ## Hashcode 2019 edition
 Final rank : #2249
+
 Score : 349 888pts
 
+
 France ranking : #266
+
 ESEO hub rank : #2
