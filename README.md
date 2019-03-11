@@ -2,9 +2,9 @@
 
 This folder contains answers found for the Hashcode challenge 
 
-## Hashcode 2019 edition (Team : ESEOnyx)
+# Hashcode 2019 edition (Team : ESEOnyx)
 
-#### Official Round
+### Official Round
 
 Score : **349 888pts**
 
@@ -14,7 +14,7 @@ France ranking : **#266**
 
 ESEO hub rank : **#2**
 
-#### Extended Round
+### Extended Round
 
 Score : **1 013 369**
 
