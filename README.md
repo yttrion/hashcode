@@ -6,16 +6,21 @@ This folder contains answers found for the Hashcode challenge
 
 #### Official Round
 
-Final rank : #2249
+Score : **349 888pts**
 
-Score : 349 888pts
+Final rank : **#2249**
 
-France ranking : #266
+France ranking : **#266**
 
-ESEO hub rank : #2
+ESEO hub rank : **#2**
 
 #### Extended Round
 
-Score : 1 013 369 
+Score : **1 013 369**
 
+Final rank : **#470**
+
+France ranking : **#70**
+
+ESEO hub rank : **#2**
 
