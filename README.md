@@ -2,6 +2,8 @@
 
 This folder contains answers found for the Hashcode challenge 
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/755b48a44564479eabf46f6432f1a717)](https://www.codacy.com/app/yttrion/hashcode?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=yttrion/hashcode&amp;utm_campaign=Badge_Grade)
+
 # Hashcode 2019 edition (Team : ESEOnyx)
 
 ### Official Round
